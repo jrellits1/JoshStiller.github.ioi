@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ### Object Oriented Programming in Python
 
 - [Project 1 Title](http://example.com/)(/pdf/sample_presentation.pdf)
