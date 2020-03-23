@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Databases using Access and SQL](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/thumb1.webp?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
