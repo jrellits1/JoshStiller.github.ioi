@@ -12,7 +12,7 @@
 
 ### Object Oriented Programming in Python
 
-<img src="images/python1.webp?raw=true"/>
+<img src="images/p2.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
@@ -24,7 +24,7 @@
 
 ### Object Oriented Programmin in C++
 
-<img src="images/c++.png?raw=true"/>
+<img src="images/c2.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
