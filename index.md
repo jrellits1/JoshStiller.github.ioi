@@ -12,7 +12,7 @@
 
 ### Object Oriented Programming in Python
 
-    <img src="images/python1.webp?raw=true"/>
+<img src="images/python1.webp?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
