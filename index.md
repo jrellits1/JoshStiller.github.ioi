@@ -5,7 +5,7 @@
 ### Database and SQL 
 
 [Databases using Access and SQL](/sample_page)
-<img src="images/thumb1.webp?raw=true"/>
+<img src="images/sql.jpg?raw=true"/>
 
 ---
 
