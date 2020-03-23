@@ -11,8 +11,9 @@
 
 ### Object Oriented Programming in Python
 
-- [Project 1 Title](http://example.com/)
 <img src="images/python1.webp?raw=true"/>
+
+- [Project 1 Title](http://example.com/)
 
 - [Project 2 Title](http://example.com/)
 
