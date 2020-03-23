@@ -13,6 +13,7 @@
 
 - [Project 1 Title](http://example.com/)
 <img src="images/python1.webp?raw=true"/>
+
 - [Project 2 Title](http://example.com/)
 
 - [Project 3 Title](http://example.com/)
