@@ -14,11 +14,9 @@
 
 <img src="images/last.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+- [Banking Program](http://example.com/)
 
-- [Project 2 Title](http://example.com/)
-
-- [Project 3 Title](http://example.com/)
+- [Employee Data](http://example.com/)
 
 ---
 
