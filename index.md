@@ -20,7 +20,7 @@
 
 ---
 
-### Object Oriented Programmin in C++
+### Object Oriented Programming in C++
 
 <img src="images/c2.png?raw=true"/>
 
