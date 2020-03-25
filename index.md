@@ -24,9 +24,9 @@
 
 <img src="images/c2.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+- [Modified Binary Search Tree](https://github.com/jrellits1/Binary-Search-Tree-7)
 
-- [Project 2 Title](http://example.com/)
+- [Binary Heap](https://github.com/jrellits1/Binary-Heap-C-)
 
 
 ---
