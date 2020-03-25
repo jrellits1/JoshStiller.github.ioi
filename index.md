@@ -6,7 +6,7 @@
 
 <img src="images/s2.webp?raw=true"/>
 
-[Databases using Access and SQL](/sample_page)
+[Databases using Access and SQL](https://github.com/jrellits1/Access-SQL)
 
 ---
 
@@ -24,7 +24,7 @@
 
 <img src="images/c2.png?raw=true"/>
 
-- [](http://example.com/)
+- [Project 1 Title](http://example.com/)
 
 - [Project 2 Title](http://example.com/)
 
