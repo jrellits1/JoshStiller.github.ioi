@@ -14,9 +14,9 @@
 
 <img src="images/last.png?raw=true"/>
 
-- [Banking Program](http://example.com/)
+- [Banking Program](https://github.com/jrellits1/Banking-Python-/blob/master/JWASProg3.py
 
-- [Employee Data](http://example.com/)
+- [Employee Data](https://github.com/jrellits1/Python-Project-2/blob/master/JWASprog2.py)
 
 ---
 
@@ -24,11 +24,9 @@
 
 <img src="images/c2.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+- [](http://example.com/)
 
 - [Project 2 Title](http://example.com/)
-
-- [Project 3 Title](http://example.com/)
 
 
 ---
