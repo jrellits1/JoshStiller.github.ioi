@@ -31,3 +31,12 @@
 
 ---
 
+###  Chameleon Coding Challenge Problems
+
+<img src="images/chameleon.jpg?raw=true'/>
+       
+- [True False Problem in Python](https://github.com/jrellits1/Chameleon-Problem-One-/blob/master/TrueFalse.py) 
+
+- [Instances of Character in Python](https://github.com/jrellits1/Frequenct-Counter/blob/master/frequency.py)
+
+- [Matching Characters in Arrays in Python](https://github.com/jrellits1/Common-Arrays/blob/master/Matching%20Arrays.py)
